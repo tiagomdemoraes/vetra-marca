@@ -22,12 +22,12 @@ vetra-marca/
 
 ## Instalar no Hermes (na VPS)
 
-O repositório é privado, então o jeito mais simples é clonar e criar um atalho para a pasta de skills do Hermes.
+O repositório é público, então o jeito mais simples é clonar e criar um atalho para a pasta de skills do Hermes.
 
 ```bash
-# 1. Clonar (use um token de acesso pessoal do GitHub com permissão de leitura)
+# 1. Clonar
 cd ~
-git clone https://github.com/SEU-USUARIO/vetra-marca.git
+git clone https://github.com/tiagomdemoraes/vetra-marca.git
 
 # 2. Ligar a skill ao Hermes
 mkdir -p ~/.hermes/skills/marca
