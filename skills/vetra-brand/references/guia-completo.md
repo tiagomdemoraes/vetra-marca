@@ -2,18 +2,18 @@
 
 Treinamento e locação de tecnologia estética. Porto Alegre, RS.
 
-A Vetra leva o equipamento e a speaker até o consultório da profissional, treina na prática com pacientes-modelo que ela mesma recruta e transforma esse dia em receita. Depois do treinamento, ela segue como locatária. O portfólio atual é o Smart Multi HIFU (ultrassom microfocado) e o laser de CO2, em pacote.
+A VETRA leva o SMART HIFU e a speaker ao consultório para o treinamento prático com as pacientes da profissional. Depois do treinamento, a profissional pode alugar o SMART HIFU.
 
 ## Posicionamento
 
 - **Percepção:** autoridade técnica. Clínica, precisa, padrão indústria. A parceria de negócio aparece no conteúdo e no tom, nunca no visual.
-- **Público principal:** biomédicas estetas e enfermeiras estéticas. Secundário: médicos, dentistas (HOF) e fisioterapeutas com registro em conselho. Esteticistas não são público.
+- **Público:** Biomédicas estetas, farmacêuticas estetas, odontólogas que atuam em estética e enfermeiras estetas no Rio Grande do Sul.
 - **Objeções que a marca precisa responder:** "não conheço a tecnologia" (autoridade, protocolo, suporte) e "não tenho paciente" (o modelo de treinamento com pacientes-modelo e a agenda gerada).
 - **Regra de criativo:** a autoridade fica na marca; a aspiração fica na cena. Mostre a profissional atendendo, a paciente-modelo e o dia acontecendo. Peça só com equipamento parece distribuidora.
 
 ## Logo
 
-O logo é o wordmark **VETRA** em Manrope ExtraBold. O "V" é desenhado: dois feixes que convergem para um ponto. O ponto é onde a energia atua, o princípio do HIFU e do laser. Esse é o único elemento gráfico próprio da marca.
+O logo é o wordmark **VETRA** em Manrope ExtraBold. O "V" é desenhado: dois feixes que convergem para um ponto. O ponto é onde a energia atua, o princípio do SMART HIFU. Esse é o único elemento gráfico próprio da marca.
 
 | Arquivo (grupo Logos) | Quando usar |
 | --- | --- |
@@ -35,7 +35,6 @@ O logo é o wordmark **VETRA** em Manrope ExtraBold. O "V" é desenhado: dois fe
 **Não fazer**
 
 - Digitar "VETRA" numa fonte em vez de usar o arquivo. O "V" desenhado é o que torna a marca registrável e difícil de copiar.
-- Escrever "Vetralaser" como marca. O domínio e o @ são endereços; a marca é VETRA.
 - Esticar, inclinar, contornar, aplicar sombra, degradê ou brilho.
 - Trocar as cores do logo fora das versões acima.
 - Aplicar sobre foto com fundo confuso sem uma faixa marinho por trás.
@@ -85,7 +84,7 @@ Autoridade calma. Quem fala é alguém que conhece a tecnologia e o mercado há 
 
 ## Instagram e WhatsApp
 
-- Perfil: **@vetralaser**, nome de exibição **VETRA | Treinamento e Locação**.
+- Perfil: **@vetra.rs**, nome de exibição **VETRA | Treinamento e Locação**.
 - Avatar: `vetra-avatar-instagram.svg` (monograma marinho sobre off-white, visível no modo escuro).
 - Peças da SDR saem de templates travados no Canva (anúncio, post, story, capa de Reels): troca-se texto e foto, nunca a estrutura.
 
@@ -97,4 +96,4 @@ Autoridade calma. Quem fala é alguém que conhece a tecnologia e o mercado há 
 
 ## Para agentes de IA
 
-Ao produzir qualquer peça ou texto da Vetra: use Manrope, os tokens desta página e o tom de autoridade calma. Ciano nunca como texto sobre fundo claro. Nunca digite o logo: use os arquivos do grupo Logos. Não escreva travessão longo nem clichês. Público é biomédica e enfermeira estética, não esteticista.
+Ao produzir qualquer peça ou texto da Vetra: use Manrope, os tokens desta página e o tom de autoridade calma. Ciano nunca como texto sobre fundo claro. Nunca digite o logo: use os arquivos do grupo Logos. Não escreva travessão longo nem clichês. Siga o público definido em Posicionamento.
