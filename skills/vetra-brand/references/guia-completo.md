@@ -2,18 +2,18 @@
 
 Treinamento e locação de tecnologia estética. Porto Alegre, RS.
 
-A VETRA leva o SMART HIFU e a speaker ao consultório para o treinamento prático com as pacientes da profissional. Depois do treinamento, a profissional pode alugar o SMART HIFU.
+A Vetra leva o equipamento e a speaker até o consultório da profissional, treina na prática com pacientes-modelo que ela mesma recruta e transforma esse dia em receita. Depois do treinamento, ela segue como locatária. O portfólio atual é só o SMART HIFU (ultrassom microfocado).
 
 ## Posicionamento
 
 - **Percepção:** autoridade técnica. Clínica, precisa, padrão indústria. A parceria de negócio aparece no conteúdo e no tom, nunca no visual.
-- **Público:** Biomédicas estetas, farmacêuticas estetas, odontólogas que atuam em estética e enfermeiras estetas no Rio Grande do Sul.
-- **Objeções que a marca precisa responder:** "não conheço a tecnologia" (autoridade, protocolo, suporte) e "não tenho paciente" (o modelo de treinamento com pacientes-modelo e a agenda gerada).
+- **Público principal:** biomédicas, enfermeiras, farmacêuticas e odontologistas que atuam em estética. Secundário: médicos e fisioterapeutas com registro em conselho. Esteticistas não são público.
+- **Objeções que a marca precisa responder:** "não conheço a tecnologia" (autoridade, protocolo, suporte) "não tenho paciente" (o modelo de treinamento com pacientes-modelo e a agenda gerada) e "é caro" (custo médio de R$ 500 por paciente; ela cobra em média de R$ 1.200 a R$ 2.000 por sessão).
 - **Regra de criativo:** a autoridade fica na marca; a aspiração fica na cena. Mostre a profissional atendendo, a paciente-modelo e o dia acontecendo. Peça só com equipamento parece distribuidora.
 
 ## Logo
 
-O logo é o wordmark **VETRA** em Manrope ExtraBold. O "V" é desenhado: dois feixes que convergem para um ponto. O ponto é onde a energia atua, o princípio do SMART HIFU. Esse é o único elemento gráfico próprio da marca.
+O logo é o wordmark **VETRA** em Manrope ExtraBold. O "V" é desenhado: dois feixes que convergem para um ponto. O ponto é onde a energia atua, o princípio do HIFU. Esse é o único elemento gráfico próprio da marca.
 
 | Arquivo (grupo Logos) | Quando usar |
 | --- | --- |
@@ -35,6 +35,7 @@ O logo é o wordmark **VETRA** em Manrope ExtraBold. O "V" é desenhado: dois fe
 **Não fazer**
 
 - Digitar "VETRA" numa fonte em vez de usar o arquivo. O "V" desenhado é o que torna a marca registrável e difícil de copiar.
+- Escrever "vetra.rs" ou "Vetralaser" como marca. O domínio e o @ são endereços; a marca é VETRA.
 - Esticar, inclinar, contornar, aplicar sombra, degradê ou brilho.
 - Trocar as cores do logo fora das versões acima.
 - Aplicar sobre foto com fundo confuso sem uma faixa marinho por trás.
@@ -96,4 +97,4 @@ Autoridade calma. Quem fala é alguém que conhece a tecnologia e o mercado há 
 
 ## Para agentes de IA
 
-Ao produzir qualquer peça ou texto da Vetra: use Manrope, os tokens desta página e o tom de autoridade calma. Ciano nunca como texto sobre fundo claro. Nunca digite o logo: use os arquivos do grupo Logos. Não escreva travessão longo nem clichês. Siga o público definido em Posicionamento.
+Ao produzir qualquer peça ou texto da Vetra: use Manrope, os tokens desta página e o tom de autoridade calma. Ciano nunca como texto sobre fundo claro. Nunca digite o logo: use os arquivos do grupo Logos. Não escreva travessão longo nem clichês. Público é biomédica, enfermeira, farmacêutica e odontologista em estética, não esteticista.

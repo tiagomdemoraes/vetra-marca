@@ -1,7 +1,7 @@
 ---
 name: vetra-brand
 description: Regras de marca da VETRA (treinamento e locação de tecnologia estética, Porto Alegre). Use sempre que for criar, revisar ou adaptar qualquer arte, post, story, carrossel, anúncio, capa de Reels, legenda ou texto da Vetra para Instagram, Meta Ads ou WhatsApp.
-version: 1.1.0
+version: 1.0.0
 ---
 
 # VETRA · Marca
@@ -14,11 +14,11 @@ Não use para Premium Tech, Lipocube ou outras marcas.
 
 ## Quick Reference
 
-**Marca:** VETRA. Descritor: TREINAMENTO E LOCAÇÃO. Instagram @vetra.rs, nome de exibição "VETRA | Treinamento e Locação".
+**Marca:** VETRA. Descritor: TREINAMENTO E LOCAÇÃO. Instagram @vetra.rs, nome de exibição "VETRA | Treinamento e Locação". "vetra.rs" é endereço, nunca nome da marca.
 
-**Público:** Biomédicas estetas, farmacêuticas estetas, odontólogas que atuam em estética e enfermeiras estetas no Rio Grande do Sul.
+**Público:** biomédicas, enfermeiras, farmacêuticas e odontologistas que atuam em estética, e fisioterapeutas, todas com registro em conselho, no Rio Grande do Sul. Médicos não são público-alvo. Esteticistas NÃO são público.
 
-**Oferta:** A VETRA leva o SMART HIFU e a speaker ao consultório para o treinamento prático com as pacientes da profissional. Depois do treinamento, a profissional pode alugar o SMART HIFU.
+**Oferta:** a Vetra vai até o consultório com o equipamento (SMART HIFU, hoje o único do portfólio) e a speaker, treina na prática com pacientes-modelo que a profissional recruta, e o dia gera receita. Depois ela segue como locatária.
 
 **Cores (hex exatos):**
 
