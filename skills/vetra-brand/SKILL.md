@@ -16,7 +16,7 @@ Não use para Premium Tech, Lipocube ou outras marcas.
 
 **Marca:** VETRA. Descritor: TREINAMENTO E LOCAÇÃO. Instagram @vetra.rs, nome de exibição "VETRA | Treinamento e Locação". "vetra.rs" é endereço, nunca nome da marca.
 
-**Público:** biomédicas, enfermeiras, farmacêuticas e odontologistas que atuam em estética, e fisioterapeutas, todas com registro em conselho, no Rio Grande do Sul. Médicos não são público-alvo. Esteticistas NÃO são público.
+**Público:** Profissionais da harmonização orofacial (HOF) com registro em conselho, no Rio Grande do Sul: biomédicos, enfermeiras, fisioterapeutas, farmacêuticas e odontologistas que atuam em estética. Secundário: médicos (sem campanha nem peça dedicada a eles). Esteticistas não são público.
 
 **Oferta:** a Vetra vai até o consultório com o equipamento (SMART HIFU, hoje o único do portfólio) e a speaker, treina na prática com pacientes-modelo que a profissional recruta, e o dia gera receita. Depois ela segue como locatária.
 

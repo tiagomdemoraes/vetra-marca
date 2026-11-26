@@ -7,7 +7,7 @@ A Vetra leva o equipamento e a speaker até o consultório da profissional, trei
 ## Posicionamento
 
 - **Percepção:** autoridade técnica. Clínica, precisa, padrão indústria. A parceria de negócio aparece no conteúdo e no tom, nunca no visual.
-- **Público principal:** biomédicas, enfermeiras, farmacêuticas e odontologistas que atuam em estética. Secundário: médicos e fisioterapeutas com registro em conselho. Esteticistas não são público.
+- **Público:** Profissionais da harmonização orofacial (HOF) com registro em conselho, no Rio Grande do Sul: biomédicos, enfermeiras, fisioterapeutas, farmacêuticas e odontologistas que atuam em estética. Secundário: médicos (sem campanha nem peça dedicada a eles). Esteticistas não são público.
 - **Objeções que a marca precisa responder:** "não conheço a tecnologia" (autoridade, protocolo, suporte) "não tenho paciente" (o modelo de treinamento com pacientes-modelo e a agenda gerada) e "é caro" (custo médio de R$ 500 por paciente; ela cobra em média de R$ 1.200 a R$ 2.000 por sessão).
 - **Regra de criativo:** a autoridade fica na marca; a aspiração fica na cena. Mostre a profissional atendendo, a paciente-modelo e o dia acontecendo. Peça só com equipamento parece distribuidora.
 
@@ -97,4 +97,4 @@ Autoridade calma. Quem fala é alguém que conhece a tecnologia e o mercado há 
 
 ## Para agentes de IA
 
-Ao produzir qualquer peça ou texto da Vetra: use Manrope, os tokens desta página e o tom de autoridade calma. Ciano nunca como texto sobre fundo claro. Nunca digite o logo: use os arquivos do grupo Logos. Não escreva travessão longo nem clichês. Público é biomédica, enfermeira, farmacêutica e odontologista em estética, não esteticista.
+Ao produzir qualquer peça ou texto da Vetra: use Manrope, os tokens desta página e o tom de autoridade calma. Ciano nunca como texto sobre fundo claro. Nunca digite o logo: use os arquivos do grupo Logos. Não escreva travessão longo nem clichês. Público: profissionais da HOF (biomédicos, enfermeiras, fisioterapeutas, farmacêuticas, odontologistas); médicos são secundários; esteticista não.
